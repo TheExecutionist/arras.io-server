@@ -3,6 +3,6 @@ Could you help me to?:
  - Know how to add a testbed tank
  - Add different keys for different actions
  
-The code is tottaly untouched, except for the .lib file
-i give you the whole thing
+The code is tottaly untouched, except for the .lib file.
+I give you the whole code
 Thanks!
