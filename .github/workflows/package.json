@@ -1,0 +1,19 @@
+{
+  "name": "arrasian-2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "ws": "6.1.x",
+    "eris": "^0.13.3",
+    "google-closure-library": "^20200517.0.0",
+    "closure-webpack-plugin": "^2.3.0",
+    "@teppeis/google-closure-deps": "^20181008.0.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "GPL-3.0"
+}
