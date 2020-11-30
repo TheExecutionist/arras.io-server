@@ -1,16 +1,60 @@
+# Patch 11/30/20(3) : Insert Title Name
+- Fixed the problem where only elite crasher would spawn instead of the other bosses would spawn
+- Added Server restarts. Take that lagbots! The server restarts when the server is very laggy
+- Side note: added Mini fridge. A borer that shoots fast bullets. AKA ice bullets
+- Added Flamethrower. Self explanitory. Upgradable from blaster
+- Added Wielder. Flamethrower except it has swarmer barrel on it's back. Upgradable from Flamethrower
+# Patch 11/29/20(2) : So sad. JK. Richardson is raiding my server! Sound the raid siren! rrrrrrrrrrrrrarrrrrrrrrrrrrrrr...
+- I disabled access to beta tester stuff for future members because as the title states... Richardson is raiding my server.
+- Richadson will be stripped of his mmembership. And I will change the BT token. If you want to know the new token or other perks I will DM you in discord.
+- Testing server will be moved to a different client or website untill further notice.
+- TESTBED events will be staged and leveled from now on and will only be on FFA or if it's a event mode, it will be in 4TDM
+- I also made a World record sheet so if you had made a possible world record... email me proof and will place it on the World Record Leaderboard. I'm in first place at the moment with 1B using Devastator.(No Dev hax)
+- Leaderboard link here https://arrasian-2.glitch.me/World-Records.md
+# Patch 11/28/20(1) : I am speed...
+- I managed to compress the server files to make them run faster than normal
+- Planning on making a screen that shows if you aren't a developer/member/V.I.P./Beta Tester/ Senior Tester or TESTBED event in progress. Might be used from Woomy-arras.io
+- Renamed Event mode to turkey mode. Will turn into FFA when it's over. Remember... December 1st
+- Fixed the error where you would need to use a different index file to change gamemodes
+- More gamemodes will be around in the future.
+- Even more updates to the client will come soon...
+- "Uh... in the Sneaky Escapist ending click the sun"
+- If you want Beta Tester token click here --->click me<---
+# Event 11/25/20 - Turkey would be delicious right now!
+- I know Thanksgiving is coming up tommorow so in the event server, you will spawn as a turkey mothership. Enjoy and happy Thanksgiving. This will be available until December 1st or when I get the time to turn off event
+# Game stuff i guess 11/24/20 -  Ahoy Spongebob Me Boy, I Have Overdosed on Ketamine And Am Going To Die. JK! April Fools. Wait it's not april 1st?
+- ◌ Guardian. Self explanitory if you've played Diep.io! | Boss
+- ◌ AWP-Ice. Self explanitory if you've played Woomy-arras.io | Boss rush | boss
+- ◌ AWP-39. Self explanitory if you are a developer of Woomy-arras.io | Developer only boss
+- ◌ Pomeraniontation. Similar to Mini Pomeraniontation. Bigger and has 8 pelter turrets instead of 4 and has mini pomeraniontation servants | Boss
+- ◌ Readded The Hunter as a spawnable Arena Closer (Uh oh...!)
 # Update 11/18/20(2) - I like crackers! part 2...
 - Completely reworked the Start page
 - Made gamemode selecting under where you would type your name and token(if you have one)
 - Changed the Map design for TDM
--
+- This is a work in progress so if there are any problems email me with the email jacobb0177@duarteusd.org
+- Membership login coming soon...
+- A bunch of tanks came out of beta:
+- ◌ Pelter. Upgradable from Basic
+- ◌ Borer. Upgradable from Pelter or Sniper
+- ◌ Flarestick. Upgradable from Blaster
+- ◌ Pailer Gun. Upgradable from Nailer Hun
+- ◌ Afakujax. Upgradable from Lancer. Lancer that opens up to reveal a basic
+- ◌ Saboton. Upgradable from Afakujax. Lancer that opens up to reveal a twin
+- Readded Devastator. Upgradable from artilary
+- ◌ Mini Pomeraniontation. Upgradable from Pumba. A pumba with 4 pelter autos!
+- ◌ Sailor. Upgradable from Pelter.
+- ◌ Seadog. Upgradable from Sailor.
+- ◌ Captain. Upgradable from Sailor. 
+- ◌ Auto Tank. Basically Auto-4 but with basic autos. Upgradable from Auto-3
 # Announcment! 11/17/20
 - New Membership Perks and new membership Types!
-- Added V.I.P. Has many perks at the moment. Find more about perks on the membership sign up by pressing the blue or brown button that says "Membership Signin"
+- Added V.I.P. Has many perks at the moment. Find more about perks on the membership sign up by pressing the blue button that says "Membership Signin"
 - Made a event gamemode
 # Update 11/17/20 - Rocket Power + Tank Reload = Better tanks!
 - Added SN87-MX. A Rocket Powered Gunner. Upgradable from Gunner and possibly Sprayer.
 - Added AK47-BX-12-7. A Giga Sprayer. Currently in Beta Tanks.
-- Added Lancer. A melee tank.
+- Added Lancer. A melee tank. Basic type tank
 - Added Golden Lancer. Booster Lancer. Upgradable from Lancer.
 - Added Flail. Stronger lance but has a smasher attatched to it!. Upgradable from Lancer.
 - Added Knight. A boss that will charge right towards you. Not spawnable yet...
